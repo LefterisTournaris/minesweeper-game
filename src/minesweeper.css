@@ -1,0 +1,28 @@
+.mine {
+    -fx-background-color: #8f0000;
+    -fx-background-image: url('com/example/resources/mine.png');
+    -fx-background-size: cover;
+}
+
+.solution {
+    -fx-background-image: url('com/example/resources/mine.png');
+    -fx-background-size: cover;
+}
+
+.flag {
+    -fx-background-image: url('com/example/resources/flag.png');
+    -fx-background-size: cover;
+}
+
+.hidden {
+    -fx-background-image: url('com/example/resources/hidden.png');
+    -fx-background-size: cover;
+    -fx-border-color: transparent;
+    -fx-background-color: none;
+}
+
+.revealed {
+    -fx-background-color: #AFAFAFAF;
+    -fx-border-color: rgba(65, 65, 65, 0.25);
+    -fx-border-width: 2px;
+}

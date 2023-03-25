@@ -1,0 +1,5 @@
+10 1 170 false
+10 7 170 false
+10 5 170 false
+10 25 170 true
+35 0 360 false
